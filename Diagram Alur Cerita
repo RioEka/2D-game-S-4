@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T03:04:23.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Mx8T0uHTYnlGrVtZk9wx" version="20.8.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-31T03:16:30.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="L9-UpurYm_MUXi_B4ekQ" version="20.8.13" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Alur Gameplay">
     <mxGraphModel dx="2440" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -536,6 +536,26 @@
         </mxCell>
         <mxCell id="lOoRaO6dBGWjodKcyPZH-119" value="Free move" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2920" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lOoRaO6dBGWjodKcyPZH-121" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Chapter 1 Kabur Dari Medan Perang&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1294" y="90" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOoRaO6dBGWjodKcyPZH-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lOoRaO6dBGWjodKcyPZH-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3140" y="339.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lOoRaO6dBGWjodKcyPZH-123" value="Free move" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3080" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lOoRaO6dBGWjodKcyPZH-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lOoRaO6dBGWjodKcyPZH-124" target="lOoRaO6dBGWjodKcyPZH-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOoRaO6dBGWjodKcyPZH-124" value="Area Desa" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3080" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lOoRaO6dBGWjodKcyPZH-128" value="Mengobrol dengan warga desa" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3080" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
